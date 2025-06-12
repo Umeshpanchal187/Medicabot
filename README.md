@@ -1,8 +1,3 @@
-Here’s a professional and detailed `README.md` file for your **Medicabot** project on GitHub:
-
----
-
-```markdown
 # 🩺 Medicabot - AI Medical Chatbot
 
 Medicabot is an AI-powered medical chatbot that provides users with instant, relevant, and context-aware responses to health-related queries. Built using **LangChain**, **FAISS**, **Streamlit**, and integrated with **Mistral-7B**, Medicabot simulates intelligent medical conversations using a private knowledge base of medical documents.
@@ -106,7 +101,7 @@ Now visit `http://localhost:8501` in your browser to start chatting with Medicab
 **Umesh Panchal**
 B.Tech AIML Student | Data Science & ML Enthusiast
 📧 [umeshpanchal595@gmail.com](mailto:umeshpanchal595@gmail.com)
-🌐 [GitHub](https://github.com/Umeshpanchal187) | [LinkedIn](https://www.linkedin.com/in/umeshpanchal187)
+🌐 [GitHub](https://github.com/Umeshpanchal187) 
 
 ---
 
